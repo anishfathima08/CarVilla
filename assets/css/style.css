@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  "Poppins", sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+:root{
+    --theme-color: #009688;
+    --black-color: black;
+    --white-color: white;
+}
+
+/* Topbar , Navbar  */
+
+.top-bar, .bottom-footer, .categories  button, .hero button{
+   background-color: var(--theme-color) !important;
+}
+.logo{
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-nav a:hover{
+   color: var(--theme-color) !important;
+}
+
+/* Home Section */
+
+.hero{
+    background: url(../images/car.jpg) no-repeat center / cover;
+}
+
+/* Categories Section */
+
+.categories{
+    color: rgb(75, 75, 75);
+    box-shadow:0px 0px 10px grey;
+}
+
+.categories select{
+    color: #555;
+    background-color: rgba(128, 128, 128,0.1);
+}
+
+/* Service Section */
+
+#service .card:hover, #clients .cards:hover{
+    background-color: var(--theme-color);
+} 
+#service .card:hover p, #service .card:hover h4, #service .card:hover i,
+#clients .cards:hover h5, #clients .cards:hover p{
+    color: var(--white-color);
+}
+#service .card i,#service .card p, #clients .cards p{
+    color: grey;
+}
+
+/* Footer Section */
+
+#footer .col-lg-2 p:hover{
+    position: relative; 
+    left: 10px;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+}
+#footer .col-lg-3 input{
+    box-shadow: 0px 0px 7px silver;
+}
+
+/* Newest Cars */
+
+#new-cars button{
+    background-color: var(--theme-color);
+}
