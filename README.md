@@ -15,7 +15,7 @@ CarVilla is a modern car rental platform that allows users to explore and rent a
 - **HTML**: The structure and content of the website.
 - **CSS**: Styling and layout, with responsive design.
 - **JavaScript**: Interactive elements and form validation.
-- **Tailwind CSS**: Utility-first CSS framework for fast design and styling.
+- **Bootstrap**: Utility-first CSS framework for fast design and styling.
 
 ## Live Demo:
 You can view the live demo of the website here:
