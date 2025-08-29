@@ -1,6 +1,6 @@
 # 🚗 CarVilla  
 
-Welcome to **CarVilla**!  
+Welcome to **CarVilla**!
 
 CarVilla is a **car selling website frontend project** built using **HTML, CSS, and Bootstrap**.  
 It provides a **modern, responsive, and user-friendly design** for showcasing cars, making it easy for users to browse and explore.  
