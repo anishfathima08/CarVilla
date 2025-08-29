@@ -1,25 +1,34 @@
-# CarVilla
+# 🚗 CarVilla  
 
-Welcome to **CarVilla**! 🚗
+Welcome to **CarVilla**!  
 
-CarVilla is a modern car rental platform that allows users to explore and rent a variety of vehicles for different occasions. Whether you're looking for a car for a road trip, business meetings, or just a weekend getaway, CarVilla has got you covered.
+CarVilla is a **car selling website frontend project** built using **HTML, CSS, and Bootstrap**.  
+It provides a **modern, responsive, and user-friendly design** for showcasing cars, making it easy for users to browse and explore.  
 
-## Features:
-- Browse through a collection of car listings with details.
-- Filter and search cars by type, availability, and price.
-- Reserve a car with a simple and user-friendly interface.
-- Secure payment integration for online bookings.
-- Beautiful, responsive design using **HTML**, **CSS**, and **JavaScript**.
+---
 
-## Technologies Used:
-- **HTML**: The structure and content of the website.
-- **CSS**: Styling and layout, with responsive design.
-- **JavaScript**: Interactive elements and form validation.
-- **Bootstrap**: Utility-first CSS framework for fast design and styling.
+## Features  
+- ✅ Fully **responsive design** (works on mobile, tablet, and desktop)  
+- ✅ Clean UI built with **Bootstrap 5**  
+- ✅ Smooth scroll animations with **AOS (Animate On Scroll)**  
+- ✅ Simple and attractive car showcase layout  
+- ✅ Fast and lightweight frontend project  
 
-## Live Demo:
-You can view the live demo of the website here:
-[CarVilla Live Demo](https://anishfathima08.github.io/CarVilla/)
+---
+
+##  Technologies Used  
+- **HTML5** → structure and content  
+- **CSS3** → styling and layout  
+- **Bootstrap 5** → responsive grid and UI components  
+- **AOS** → animations for smooth scrolling effects  
+
+---
+
+## Live Demo  
+- 🔗 [GitHub Pages](https://anishfathima08.github.io/CarVilla/)  
+- 🔗 [Netlify](https://carvilla-saf.netlify.app/)  
+
+---
 
 ## Installation:
 To run this project locally, follow the steps below:
