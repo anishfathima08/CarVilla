@@ -8,11 +8,11 @@ It provides a **modern, responsive, and user-friendly design** for showcasing ca
 ---
 
 ## Features  
-- ✅ Fully **responsive design** (works on mobile, tablet, and desktop)  
-- ✅ Clean UI built with **Bootstrap 5**  
-- ✅ Smooth scroll animations with **AOS (Animate On Scroll)**  
-- ✅ Simple and attractive car showcase layout  
-- ✅ Fast and lightweight frontend project  
+- Fully **responsive design** (works on mobile, tablet, and desktop)  
+- Clean UI built with **Bootstrap 5**  
+- Smooth scroll animations with **AOS (Animate On Scroll)**  
+- Simple and attractive car showcase layout  
+- Fast and lightweight frontend project  
 
 ---
 
