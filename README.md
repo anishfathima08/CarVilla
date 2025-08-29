@@ -25,9 +25,8 @@ It provides a **modern, responsive, and user-friendly design** for showcasing ca
 ---
 
 ## Live Demo  
-- 🔗 [GitHub Pages](https://anishfathima08.github.io/CarVilla/)  
-- 🔗 [Netlify](https://carvilla-saf.netlify.app/)  
-
+- 🔗 <a href="https://anishfathima08.github.io/CarVilla/" target="_blank">GitHub Link</a>  
+- 🔗 <a href="https://carvilla-saf.netlify.app/" target="_blank">Netlify Link</a> 
 ---
 
 ## Installation:
